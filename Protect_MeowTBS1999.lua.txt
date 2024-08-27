@@ -5,4 +5,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     ["Title"] = "THE SCRIPT HAS BEEN DOWN",
     ["Text"] = "PLEASE WAIT BEFORE IT FIX!",
     ["Duration"] = 20,
-    ["Button1"] = "noooo~"
+    ["Button1"] = "nOo0OA!!"
